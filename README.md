@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://novatorem-n4429w63l-n7tralhas-projects.vercel.app?" alt="Widget with the current Spotify song"  />
+  <img src="https://vercel.com/n7tralhas-projects/novatorem?" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
