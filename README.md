@@ -6,7 +6,7 @@
 
 
 &nbsp;<div align="center">
-  [![Spotify](https://n7tralha.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31xr6mapjgtvmiwlrptm4cajadla)
+  [![Spotify](https://spotifynicc-9v4qojlbo-n7tralhas-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31xr6mapjgtvmiwlrptm4cajadla)
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
