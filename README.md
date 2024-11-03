@@ -1,4 +1,4 @@
-[![Spotify](https://spotifynicc.vercel.app/api/spotify)](https://open.spotify.com/user/NicolasLaR)
+[![Spotify](https://spotifynicc.vercel.app/api/spotify)](https://open.spotify.com/user/31xr6mapjgtvmiwlrptm4cajadla?si=881475cc6f234451)
 
 
 
