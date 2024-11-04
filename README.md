@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=25&duration=2500&pause=1200&color=F78F1D&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Nicolas+%3A);A+Passionate+Developer;Software+Engineer;Front-end+Developer;Back-end+Developer;Always+Learning+New+Things;Hola%2C+soy+Nicolas+%3A);Un+Developer+Apasionado;Ingeniero+De+Software;Front-end+Developer;Back-end+Developer;Siempre+Aprendiendo+Cosas+Nuevas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bowlby+One+SC&size=25&duration=2000&pause=1200&color=5F1DAE&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Nicolas+%3A);A+Passionate+Developer;Software+Engineer;Full+Stack+Developer;Always+Learning+New+Things;Hola%2C+soy+Nicolas+%3A);Un+Developer+Apasionado;Ingeniero+De+Software;Full+Stack+Developer;Siempre+Aprendiendo+Cosas+Nuevas" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,7 +9,7 @@
 <a href="https://discord.com/channels/@me/983734077519708190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me/983734077519708190" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">// Making My Castle With Little Codes</h3>
+<h1 align="center">// Making My Castle With Little Codes</h1>
 
 
 ## Sobre mi
