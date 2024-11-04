@@ -1,7 +1,9 @@
-&nbsp;<div align="center" style="border: 2px solid white; padding: 10px; display: inline-block;">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xr6mapjgtvmiwlrptm4cajadla&cover_image=true&theme=novatorem&show_offline=true&background_color=e60505&interchange=false&bar_color=53b14f&bar_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xr6mapjgtvmiwlrptm4cajadla&redirect=true)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Nicolas;Software+Engineering;Front-end+Developer;Back-end+Developer;Always+Learning+Things" alt="Typing SVG" />
+  </a>
 </div>
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+&nbsp;<div align="center" style="border: 2px solid white; padding: 10px; display: inline-block;">
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xr6mapjgtvmiwlrptm4cajadla&cover_image=true&theme=novatorem&show_offline=true&background_color=e60505&interchange=false&bar_color=53b14f&bar_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xr6mapjgtvmiwlrptm4cajadla&redirect=true)
 </div>
