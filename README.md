@@ -8,9 +8,6 @@
 <a href="https://discord.com/channels/@me/983734077519708190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me/983734077519708190" height="30" width="40" /></a>
 </p>
 
-<h6 align="center">Making My Castle With Little Codes</h6>
-
-
 ## Sobre mi
 
 <h3 align="left">Languages and Tools:</h3>
