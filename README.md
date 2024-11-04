@@ -13,6 +13,9 @@
 <a href="https://discord.com/channels/@me/983734077519708190">
     <img height="30" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" title="Discord" target="_blank"> 
   </a>
+<a href="nr29075@gmail.com">
+    <img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" title="Gmail" target="_blank"> 
+  </a>
 </p>
 
 <br><br><br>
