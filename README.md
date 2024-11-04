@@ -1,8 +1,6 @@
 <br><br><br><br>
 <div align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Bowlby+One+SC&size=25&duration=2000&pause=1200&color=5F1DAE&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Nicolas+%3A);A+Passionate+Developer;Software+Engineer;Full+Stack+Developer;Always+Learning+New+Things;Hola%2C+soy+Nicolas+%3A);Un+Developer+Apasionado;Ingeniero+De+Software;Full+Stack+Developer;Siempre+Aprendiendo+Cosas+Nuevas" alt="Typing SVG" />
-  </a>
 </div>
 <br><br><br><br>
 <p align="center">
