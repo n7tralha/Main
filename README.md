@@ -1,4 +1,4 @@
-&nbsp;<div align="center">
+&nbsp;<div align="center" style="border: 2px solid white; padding: 10px; display: inline-block;">
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xr6mapjgtvmiwlrptm4cajadla&cover_image=true&theme=novatorem&show_offline=true&background_color=e60505&interchange=false&bar_color=53b14f&bar_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xr6mapjgtvmiwlrptm4cajadla&redirect=true)
 </div>
   
