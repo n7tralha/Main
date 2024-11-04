@@ -5,7 +5,7 @@
 
 
 &nbsp;<div align="center">
-  [![Spotify](https://https://spotifynicc.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Richardd)
+  [![Spotify](https://https://spotifynicc.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/NicolasLaR)
 </div>
 
 &nbsp;<div align="center">
